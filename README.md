@@ -1,2 +1,3 @@
-# Projects- Contains 2 projects 
+# Projects- Contains todo list project
+
 
